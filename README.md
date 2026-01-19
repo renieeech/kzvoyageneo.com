@@ -1,1 +1,4 @@
-# kzvoyageneo.com
+# KZVoyage — 次世代个人科技
+
+为 KZVoyage 打造一个高端、极简、具有电影级动效与品牌质感的官网，参考 gen.tech 的信息架构：大幅 Hero、焦点产品卡片滑动、品牌 Marquee、设备陈列与极简深色美学。支持响应式、滚动动效与可访问性基础。
+    
